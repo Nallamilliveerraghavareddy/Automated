@@ -1,0 +1,28 @@
+1616782071251	geckodriver	INFO	Listening on 127.0.0.1:35333
+1616782071256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9EHIGC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616782073590	Marionette	INFO	Listening on port 43589
+1616782073687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://intranet.primesoft.net/scripts/jquery/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://intranet.primesoft.net/index.php, line 131: TypeError: document.getElementById(...) is null
+JavaScript warning: https://intranet.primesoft.net/scripts/jquery/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://intranet.primesoft.net/index.php, line 96: TypeError: document.getElementById(...) is null
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616783109439	Marionette	INFO	Stopped listening on port 43589
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617040410339	geckodriver	INFO	Listening on 127.0.0.1:39615
+1617040411343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez3vvyI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617040415115	Marionette	INFO	Listening on port 38871
+1617040415191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://intranet.primesoft.net/scripts/jquery/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://intranet.primesoft.net/index.php, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://intranet.primesoft.net/index.php, line 131: TypeError: document.getElementById(...) is null
+JavaScript warning: https://intranet.primesoft.net/scripts/jquery/jquery.js, line 2425: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617040817402	Marionette	INFO	Stopped listening on port 38871
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
